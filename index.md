@@ -9,11 +9,12 @@
 
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
-<img src="images/vikingdemo.jpg?raw=true"/>
+<img src="images/vikingdemo.png?raw=true"/>
+Character design, audio (I voiced the death sounds!), Level design, coding combat, physics, character animation
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tiny Little Ember]([http://example.com/](https://justin0618.itch.io/tiny-little-ember))
+<img src="images/ember.png?raw=true"/>
 
 ---
 
