@@ -9,6 +9,7 @@
 <img src="images/e4e.jpg?raw=true"/>
 <br><br>
 I worked as a designer on this project for two semesters and helped design features/implement puzzles
+
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
 <br><br>
