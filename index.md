@@ -10,11 +10,13 @@
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
 <img src="images/vikingdemo.png?raw=true"/>
+<br><br>
 Character design, audio (I voiced the death sounds!), Level design, coding combat, physics, character animation
 
 ---
 [Tiny Little Ember](https://justin0618.itch.io/tiny-little-ember)
 <img src="images/ember.png?raw=true"/>
+<br><br>
 I worked on level design, obstacle design, gameplay concepts, UI, title/pause screens
 
 ---
