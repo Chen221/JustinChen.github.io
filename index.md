@@ -6,7 +6,7 @@
 
 [Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/)
 <br><br>
-<img src="images/e4e.png?raw=true"/>
+<img src="images/e4e.jpg?raw=true"/>
 <br><br>
 Senior Final Game Project. I worked as a designer on this project for two semesters and helped design features/implement puzzles
 ---
