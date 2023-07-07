@@ -13,12 +13,13 @@
 Character design, audio (I voiced the death sounds!), Level design, coding combat, physics, character animation
 
 ---
-[Tiny Little Ember]([http://example.com/](https://justin0618.itch.io/tiny-little-ember))
+[Tiny Little Ember](https://justin0618.itch.io/tiny-little-ember)
 <img src="images/ember.png?raw=true"/>
+I worked on level design, obstacle design, gameplay concepts, UI, title/pause screens
 
 ---
 
-### Category Name 2
+### C++ Games
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
