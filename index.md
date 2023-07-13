@@ -29,10 +29,17 @@ I worked on level design, obstacle design, gameplay concepts, UI, title/pause sc
 ---
 
 ### C++ Games
+<br><br>
+<img src="images/Linkpng.png?raw=true"/>
+<br><br>
 
-- WIP
+[Portal](https://youtu.be/kYGnARfE9qE)
+<br><br>
+[Mario Kart](https://youtu.be/UMQP3s2BNSU)
+<br><br>
+[Star Fox](https://youtu.be/LAjMe1ia4MY)
+<br><br>
 
----
 ### Computer Graphics
 <br><br> 
 Coursework from a class taught by Professor Jernej Barbic
