@@ -1,7 +1,7 @@
 ## Ray Tracing
 
 <img src="images/003.jpg?raw=true"/>
-Ray tracing brings realistic lighting to media such as games and graphics by emitting light from the camera onto the pixel plane and objects, and then back to the camera.
+Ray tracing emits light from the camera onto the pixel plane and objects, and then back to the camera; creating realistic light effects with shadows.
 <br><br>
 
 ## Thoughts on the Project
