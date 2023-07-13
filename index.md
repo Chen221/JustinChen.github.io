@@ -35,7 +35,10 @@ I worked on level design, obstacle design, gameplay concepts, UI, title/pause sc
 ---
 ### Computer Graphics
 
-- WIP
+[Ray Tracing](https://chen221.github.io/JustinsPortfolio/raytracing)
+<br><br>
+<img src="images/003.jpg?raw=true"/>
+<br><br>
 
 ---
 ### Miscellaneous Projects
