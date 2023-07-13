@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+## Ray Tracing
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+<br><br>
+In this project I implemented a Phong shader with shadows and intersection checks. I actually used the Mollor Trombole algorithm for the triangle, as my Barycentric implementation ended up not working. While finding the final color of the object post shading, I also had to check whether a triangle or a sphere was closer to the light source and shade accordingly. I had a lot of trouble with the shadow code as well, but the many hours of work paid off. 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
