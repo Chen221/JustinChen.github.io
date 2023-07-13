@@ -59,8 +59,12 @@ Coursework from a class taught by Professor Jernej Barbic
 
 ---
 ### Miscellaneous Projects
-
-- WIP
+<br><br>
+[Seven](https://steamcommunity.com/sharedfiles/filedetails/?id=2238117522)
+<br><br>
+Our Design Process(https://drive.google.com/file/d/1z8HIO-2o0i-otkeRYOliDlRViBSN0cQM/view?usp=drive_link)
+<br><br>
+A fun tabletop game that combines horror, strategy, and Japanese Urban Legends
 
 ---
 
