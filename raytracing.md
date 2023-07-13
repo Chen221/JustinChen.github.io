@@ -9,7 +9,7 @@ In this project I implemented a Phong shader with shadows and intersection check
 ### 1. Simple Sphere                                                          
 <img src="images/000.jpg?raw=true"/>     
 <br><br>
-### 2. Simple Sphere and Triangle
+### 2. Simple Sphere and Triangle    
 <img src="images/001.jpg?raw=true"/>
 
 
