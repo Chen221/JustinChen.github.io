@@ -43,11 +43,13 @@ I worked on level design, obstacle design, gameplay concepts, UI, title/pause sc
 ### Computer Graphics
 <br><br> 
 Coursework from a class taught by Professor Jernej Barbic
-
-[Ray Tracing](https://chen221.github.io/JustinsPortfolio/raytracing)
 <br><br>
 <img src="images/003.jpg?raw=true"/>
 <br><br>
+
+[Ray Tracing](https://chen221.github.io/JustinsPortfolio/raytracing)
+<br><br>
+
 
 [Spline Coaster](https://youtu.be/Eb8QzwifDZM)
 <br><br>
