@@ -1,7 +1,7 @@
-## Ray Tracing
+## 3D projects
 
 <img src="images/003.jpg?raw=true"/>
-Ray tracing emits light from the camera onto the pixel plane and objects, and then back to the camera; creating realistic light effects with shadows.
+These projects are pretty old and I'm currently trying to find more recent projects. Made with Autodesk 123D and Maya!
 <br><br>
 
 ## Thoughts on the Project
