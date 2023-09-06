@@ -15,7 +15,7 @@ Worked on and designed tutorial levels, interaction dialogue, search results, an
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
 <br><br>
-<img src="images/vikingdemo.png?raw=true"/>
+<img src="images/clash.png?raw=true"/>
 <br><br>
 Character design, audio (I voiced the death sounds!), Level design, coding combat, physics, character animation
 
@@ -35,15 +35,15 @@ I worked on level design, obstacle design, gameplay concepts, UI, title/pause sc
 
 [Portal](https://youtu.be/kYGnARfE9qE)
 <br><br>
-Unfortunately there is no cake
+Functioning portals, turret AI and targeting, accurate and angled views through portals 
 <br><br>
 [Mario Kart](https://youtu.be/UMQP3s2BNSU)
 <br><br>
-Wahoo!
+Making a heightmap from a json file, enemy cart pathing, spring/lerping camera
 <br><br>
 [Star Fox](https://youtu.be/LAjMe1ia4MY)
 <br><br>
-Do a barrel roll!
+Randomly generated levels, self-deleting levels to save memory, coding explosions
 <br><br>
 
 ### Computer Graphics
