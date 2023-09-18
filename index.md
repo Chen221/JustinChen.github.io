@@ -10,7 +10,7 @@
 <br><br>
 <img src="images/e4e.jpg?raw=true"/>
 <br><br>
-Worked on and designed tutorial levels, interaction dialogue, search results, and tuned levels according to feedback
+Worked on and designed tutorial levels, interaction dialogue, lore bits, search results, and tuned levels according to feedback
 
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
