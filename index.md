@@ -53,7 +53,7 @@ Coursework from a class taught by Professor Jernej Barbic
 <img src="images/003.jpg?raw=true"/>
 <br><br>
 
-[Ray Tracing](https://chen221.github.io/JustinsPortfolio/raytracing)
+[Ray Tracing Examples](https://chen221.github.io/JustinsPortfolio/raytracing)
 <br><br>
 Effects of ray tracing code on multiple scenes
 <br><br>
