@@ -28,10 +28,12 @@ I worked on level design, obstacle design, gameplay concepts, UI, title/pause sc
 
 ---
 
-### C++ Games
+### C++ Games (Video Demonstrations)
 <br><br>
 <img src="images/Linkpng.png?raw=true"/>
 <br><br>
+
+Because this is class material, publishing source code is not allowed.
 
 [Portal](https://youtu.be/kYGnARfE9qE)
 <br><br>
