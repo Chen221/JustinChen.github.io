@@ -13,15 +13,15 @@ Unlike most of the other game projects, this was lead by mostly graduate student
 <br><br>
 
 
-### [My GDD Contributions] (https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
+### [My GDD Contributions](https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
 My parts of the Game Design Doc!
 
 <br><br>
-### [Early Puzzle Flowcharts] (https://docs.google.com/document/d/1gyw52noD24ba3tj7nIajv7xhMMzWDQZKb-nx6drDJGI/edit?usp=sharing)
+### [Early Puzzle Flowcharts](https://docs.google.com/document/d/1gyw52noD24ba3tj7nIajv7xhMMzWDQZKb-nx6drDJGI/edit?usp=sharing)
 Prototypes, notes, and Miro flowcharts!
 
 <br><br>
-### [Game Proposal(EN/JP)]  (https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing)                                                       
+### [Game Proposal(EN/JP)](https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing)                                                       
 Written Game Proposal 
 
 <br><br>    
