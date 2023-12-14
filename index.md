@@ -10,7 +10,7 @@
 <br><br>
 <img src="images/e4e.jpg?raw=true"/>
 <br><br>
-Worked on and designed tutorial levels, interaction dialogue, lore bits, search results, and tuned levels according to feedback
+Game Designer (August 2022-May 2023)
 
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash)
