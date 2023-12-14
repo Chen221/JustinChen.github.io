@@ -4,8 +4,8 @@
 
 ### Unity Projects and Prototypes
 
-[Eye 4 Eye Steam Link](https://store.steampowered.com/app/2269450/Eye_4_Eye/)
-[Trailer](https://www.youtube.com/watch?v=Za2Sljczsjo)
+[Eye 4 Eye Steam Link](https://store.steampowered.com/app/2269450/Eye_4_Eye/) <br><br>
+[Trailer](https://www.youtube.com/watch?v=Za2Sljczsjo)<br><br>
 [My Work](https://chen221.github.io/JustinsPortfolio/e4e)
 <br><br>
 <img src="images/e4e.jpg?raw=true"/>
