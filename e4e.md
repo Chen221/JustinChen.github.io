@@ -2,7 +2,7 @@
 
 [Ray Tracing Examples](https://chen221.github.io/JustinsPortfolio/raytracing)
 
-<img src="images/003.jpg?raw=true"/>
+<img src="images/e4et.jpg?raw=true"/>
 Ray tracing emits light from the camera onto the pixel plane and objects, and then back to the camera; creating realistic light effects with shadows.
 <br><br>
 
@@ -13,10 +13,17 @@ Unlike most of the other game projects, this was lead by mostly graduate student
 <br><br>
 
 
-### My GDD Contributions (https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
+### [My GDD Contributions] (https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
+My parts of the Game Design Doc!
+
 <br><br>
-### Early Puzzle Flowcharts (https://docs.google.com/document/d/1gyw52noD24ba3tj7nIajv7xhMMzWDQZKb-nx6drDJGI/edit?usp=sharing)
+### [Early Puzzle Flowcharts] (https://docs.google.com/document/d/1gyw52noD24ba3tj7nIajv7xhMMzWDQZKb-nx6drDJGI/edit?usp=sharing)
+Prototypes, notes, and Miro flowcharts!
+
 <br><br>
-### Game Proposal(EN/JP)  (https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing)                                                       
+### [Game Proposal(EN/JP)]  (https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing)                                                       
+Written Game Proposal 
+
 <br><br>    
-### Puzzles I Worked On    
+### [Puzzles I Worked On]
+Gameplay of the levels I worked on!
