@@ -1,10 +1,5 @@
 ## What I Did In Eye 4 Eye
-
-[Ray Tracing Examples](https://chen221.github.io/JustinsPortfolio/raytracing)
-
 <img src="images/e4et.jpg?raw=true"/>
-Ray tracing emits light from the camera onto the pixel plane and objects, and then back to the camera; creating realistic light effects with shadows.
-<br><br>
 
 ## My Role in Eye 4 Eye
 I worked as one of three designers for this game, for USC's Advanced Games Program and was easily the least experienced out of all of them. However, being on the Eye 4 Eye team has helped me level up a lot! 
