@@ -1,6 +1,6 @@
 ## Justin's Portfolio
-Welcome to my page!
 ---
+Welcome to my page!
 
 ### Unity Projects and Prototypes
 
