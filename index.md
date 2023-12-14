@@ -1,7 +1,5 @@
 ## Justin's Portfolio
 ---
-Welcome to my page!
-
 ### Unity Projects and Prototypes
 
 [Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/) | **USC Games** <br><br>
