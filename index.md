@@ -20,7 +20,7 @@ Programmer, Animator, UI Designer (August 2022-December 2022)
 ---
 [Tiny Little Ember](https://justin0618.itch.io/tiny-little-ember) | **USC Games**
 <br><br>
-<img src="images/ember.png?raw=true"/>
+<img src="images/fire.png?raw=true"/>
 <br><br>
 Level Designer/Programmer (Prototyping Final Project)
 
