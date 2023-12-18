@@ -7,7 +7,7 @@ Viking Clash is the result of a semester long two-man project. Initially, Viking
 In this project, my partner and I made full use of [burndown charts](https://docs.google.com/spreadsheets/d/1Xf16n5B3LCksBZkK2sHDASzsgOD7MUQrWBeGjnuNDL4/edit?usp=sharing) and a [game macro](https://docs.google.com/spreadsheets/d/1Z5nIIFb3NxXMdv_BkHya_VmCUNcss2Xs4oNjKhUpkB4/edit?usp=sharing) in order to keep track of goals and progress. In this project, I programmed player movement, combat logic and physics, unique character kits, the HP system, UI, animated the characters, designed the stages, and managed audio as well. This was a fun and challenging project that helped me level up my programming skills!
 
 <img src="images/skeleton.png?raw=true"/>
-[Character Animation Reel](https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)       
+[Character Animation Reel](https://youtu.be/2bGR_bx72YA)       
 <br><br>
 
 <img src="images/Roster.png?raw=true"/>
