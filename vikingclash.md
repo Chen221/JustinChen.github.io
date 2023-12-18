@@ -11,6 +11,7 @@ In this project, my partner and I made full use of burndown charts(link) and a g
 <br><br>
 
 <img src="images/Roster.png?raw=true"/>
-[Game Proposal](https://docs.google.com/document/d/11FlrbPGy1NYMIf3b1k_R-ttpGvTXMfapBE1S4AT_l1w/edit?usp=sharing)
 <br><br>
+[Game Proposal](https://docs.google.com/document/d/11FlrbPGy1NYMIf3b1k_R-ttpGvTXMfapBE1S4AT_l1w/edit?usp=sharing)
+
 
