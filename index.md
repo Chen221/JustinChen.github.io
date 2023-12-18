@@ -12,8 +12,9 @@ Game Designer (August 2022-May 2023)
 
 ---
 [Viking Clash](https://justin0618.itch.io/vikingclash) | **USC Games**
+[My Work](https://chen221.github.io/JustinsPortfolio/vikingclash)
 <br><br>
-<img src="images/clash.png?raw=true"/>
+<img src="images/gun.png?raw=true"/>
 <br><br>
 Programmer, Animator, UI Designer (August 2022-December 2022)
 
