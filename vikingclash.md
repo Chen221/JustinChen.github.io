@@ -2,24 +2,16 @@
 <img src="images/clash.png?raw=true"/>
 
 ## My Role in Viking Clash
-I worked as one of three designers for this game, for USC's Advanced Games Program and was easily the least experienced out of all of them. However, being on the Eye 4 Eye team has helped me level up a lot! 
+Viking Clash is the result of a semester long two-man project. Initially, Viking Clash was not going to be a fighting game, but rather an arcade game and then a game than included grappling hooks. However, the grappling hook prototypes were extremely buggy, and including grappling hooks in the said fighting game was definitely out of scope. 
 
-Unlike most of the other game projects, this was lead by mostly graduate students. In Eye 4 Eye, I worked as a designer, designing flowcharts in Miro and brainstorming with teammates explaining how puzzles would function. In addition to that, there was a lot of game design documentation, of which my parts will be posted below. We also oversaw playtests, took notes, and reported user feedback to improve our player experience. Additionally, we also had extensive communication with the Narrative, Programming, and Art teams, as we had to keep track of tying the story into the puzzles, making the puzzles and events functional, and keep track of assets. While my fellow designers were more involved in the playtesting part of the project, I did a little more level design. I got to design the tutorial levels, rework them multiple times, and then build and decorate the lobby area where the tutorial takes place. Unfortunately, most of the decorations in the lobby I designed was replaced with store-bought assets, which though impressive looking, left the lobby area feeling a little too empty. 
-<br><br>
+In this project, my partner and I made full use of burndown charts(link) and a game macro(link) in order to keep track of goals and progress. In this project, I programmed player movement, combat logic and physics, unique character kits, the HP system, UI, animated the characters, designed the stages, and managed audio as well. This was a fun and challenging project and helped me level up my programming skills. 
 
-
-### [My GDD Contributions](https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
-My parts of the Game Design Doc!
-
-<br><br>
-### [Early Puzzle Flowcharts](https://docs.google.com/document/d/1gyw52noD24ba3tj7nIajv7xhMMzWDQZKb-nx6drDJGI/edit?usp=sharing)
-Prototypes, notes, and Miro flowcharts!
+<img src="images/skeleton.png?raw=true"/>
+### [Animations](https://docs.google.com/document/d/1ecyBVIWfkgV1AKrG0550k0Z1bGrOSP403RGXkSpz65o/edit?usp=sharing)                                                             
+Animation reel for each character!
 
 <br><br>
-### [Game Proposal(EN/JP)](https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing)                                                       
+
+<img src="images/roster.png?raw=true"/>
+### [Game Proposal]([https://docs.google.com/document/d/1XtFJsMvrfRRo4_y55gYdF1B6dUNXLrut3AkeFaW8idY/edit?usp=sharing](https://docs.google.com/document/d/11FlrbPGy1NYMIf3b1k_R-ttpGvTXMfapBE1S4AT_l1w/edit?usp=sharing))                                                       
 Written Game Proposal 
-
-<br><br>    
-### [Puzzles I Worked On]
-Gameplay of the levels I worked on!
-
