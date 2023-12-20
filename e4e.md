@@ -20,5 +20,5 @@ Prototypes, notes, and Miro flowcharts!
 Written Game Proposal 
 
 <br><br>    
-### [Puzzles I Worked On]
+### [Puzzles I Worked On](https://youtu.be/2SZ7U0vn0uk)
 Gameplay of the levels I worked on!
