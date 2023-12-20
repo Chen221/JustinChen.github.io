@@ -2,7 +2,7 @@
 ---
 ### Unity Projects and Prototypes
 
-[Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/) | **USC Games** <br><br>
+[Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/) | [Puzzles I worked on](https://youtu.be/2SZ7U0vn0uk) | **USC Games** <br><br>
 [Trailer](https://www.youtube.com/watch?v=Za2Sljczsjo)<br><br>
 [My Work](https://chen221.github.io/JustinsPortfolio/e4e)
 <br><br>
