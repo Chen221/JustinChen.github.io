@@ -16,7 +16,7 @@ Game Designer (August 2022-May 2023)
 [About the Game](https://www.youtube.com/watch?v=62ayQFIkDyc)<br><br>
 [My Work in Miro](https://miro.com/app/board/uXjVNQM4tPw=/?share_link_id=700121372476)
 <br><br>
-<img src="images/e4e.jpg?raw=true"/>
+<img src="images/jellyu.jpg?raw=true"/>
 <br><br>
 Volunteer Technical Game Designer (October 2023 - Present)
 
