@@ -8,7 +8,7 @@
 <br><br>
 <img src="images/IMG_2312.jpeg?raw=true"/>
 <br><br>
-Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
+Unity Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
 
 
 
@@ -18,7 +18,7 @@ Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 202
 <br><br>
 <img src="images/e4e.jpg?raw=true"/>
 <br><br>
-Game Designer (August 2022-May 2023)
+Unity Game Designer (August 2022-May 2023)
 
 ---
 
@@ -94,7 +94,28 @@ A heightmap visualizer that can switch modes and maps viewed
 <br><br>
 
 ---
+
+### Other Major Projects
+<br><br> 
+[Luckyball Games](https://luckyball.games/) <br><br>
+<br><br>
+<img src="images/IMG_2312.jpeg?raw=true"/>
+<br><br>
+Unity Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
+<br><br>
+
+---
+
 ### Miscellaneous Projects
+
+<br><br>
+[Seven](https://steamcommunity.com/sharedfiles/filedetails/?id=2238117522) | **USC Games**
+<br><br>
+<img src="images/Seven.png?raw=true"/>
+[Our Design Process](https://drive.google.com/file/d/1z8HIO-2o0i-otkeRYOliDlRViBSN0cQM/view?usp=drive_link)
+<br><br>
+A fun tabletop game that combines horror, strategy, and Japanese Urban Legends
+
 <br><br>
 [Seven](https://steamcommunity.com/sharedfiles/filedetails/?id=2238117522) | **USC Games**
 <br><br>
