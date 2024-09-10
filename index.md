@@ -102,15 +102,19 @@ A heightmap visualizer that can switch modes and maps viewed
 <img src="images/LBGames.png?raw=true"/>
 <br><br>
 Quality Assurance (July 2024 - Present)
+<br><br>
+Basically an Online Casino
 
 ---
 
 <br><br> 
 [Kumeo Payments](https://pay.kumeo.com/) <br><br>
 <br><br>
-<img src="images/LBGames.png?raw=true"/>
+<img src="images/Kumeo.png?raw=true"/>
 <br><br>
 Quality Assurance (July 2024 - Present)
+<br><br>
+Company Pay Service
 
 ---
 
