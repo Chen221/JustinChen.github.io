@@ -2,7 +2,7 @@
 ---
 ### Unity Projects and Prototypes
 
-[Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](https://youtu.be/2SZ7U0vn0uk) | **LiveRocket Games** <br><br>
+[Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](link) | **LiveRocket Games** <br><br>
 [Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
 [My Work](https://chen221.github.io/JustinsPortfolio/e4e)
 <br><br>
