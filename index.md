@@ -4,7 +4,7 @@
 
 [Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](link) | **LiveRocket Games** <br><br>
 [Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
-[My Work](https://chen221.github.io/JustinsPortfolio/e4e)
+[My Work](WIP)
 <br><br>
 <img src="images/IMG_2312.jpeg?raw=true"/>
 <br><br>
@@ -99,10 +99,18 @@ A heightmap visualizer that can switch modes and maps viewed
 <br><br> 
 [Luckyball Games](https://luckyball.games/) <br><br>
 <br><br>
-<img src="images/IMG_2312.jpeg?raw=true"/>
+<img src="images/LBGames.png?raw=true"/>
 <br><br>
-Unity Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
+Quality Assurance (July 2024 - Present)
+
+---
+
+<br><br> 
+[Kumeo Payments](https://pay.kumeo.com/) <br><br>
 <br><br>
+<img src="images/LBGames.png?raw=true"/>
+<br><br>
+Quality Assurance (July 2024 - Present)
 
 ---
 
