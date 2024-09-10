@@ -2,6 +2,16 @@
 ---
 ### Unity Projects and Prototypes
 
+[Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](https://youtu.be/2SZ7U0vn0uk) | **LiveRocket Games** <br><br>
+[Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
+[My Work](https://chen221.github.io/JustinsPortfolio/e4e)
+<br><br>
+<img src="images/e4e.jpg?raw=true"/>
+<br><br>
+Game Designer (August 2022-May 2023)
+
+
+
 [Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/) | [Puzzles I worked on](https://youtu.be/2SZ7U0vn0uk) | **USC Games** <br><br>
 [Trailer](https://www.youtube.com/watch?v=Za2Sljczsjo)<br><br>
 [My Work](https://chen221.github.io/JustinsPortfolio/e4e)
