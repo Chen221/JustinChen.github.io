@@ -6,9 +6,9 @@
 [Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
 [My Work](https://chen221.github.io/JustinsPortfolio/e4e)
 <br><br>
-<img src="images/e4e.jpg?raw=true"/>
+<img src="images/IMG_2312.jpeg?raw=true"/>
 <br><br>
-Game Designer (August 2022-May 2023)
+Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
 
 
 
