@@ -4,7 +4,7 @@
 
 [Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](link) | **LiveRocket Games** <br><br>
 [Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
-[My Work](WIP)
+[My Work]((https://youtu.be/T6HgcQdapvY))
 <br><br>
 <img src="images/IMG_2312.jpeg?raw=true"/>
 <br><br>
@@ -110,7 +110,7 @@ Basically an Online Casino
 <br><br> 
 [Kumeo Payments](https://pay.kumeo.com/) <br><br>
 <br><br>
-<img src="images/Kumeo.png?raw=true"/>
+<img src="images/kumeo.png?raw=true"/>
 <br><br>
 Quality Assurance (July 2024 - Present)
 <br><br>
