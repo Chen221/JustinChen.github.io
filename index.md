@@ -2,7 +2,7 @@
 ---
 ### Unity Projects and Prototypes
 
-[Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](link) | **LiveRocket Games** <br><br>
+[Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | [Short animation reel coming soon](link) | **LiveRocket Games/UpPoint Inc.** <br><br>
 [Social Media](https://www.instagram.com/playrocknrumble/)<br><br>
 [My Work](https://youtu.be/T6HgcQdapvY)
 <br><br>
@@ -97,7 +97,7 @@ A heightmap visualizer that can switch modes and maps viewed
 
 ### Other Major Projects
 <br><br> 
-[Luckyball Games](https://luckyball.games/) <br><br>
+[Luckyball Games](https://luckyball.games/)  | **UpPoint Inc.** <br><br>
 <br><br>
 <img src="images/LBGames.png?raw=true"/>
 <br><br>
@@ -108,7 +108,7 @@ Basically an Online Casino
 ---
 
 <br><br> 
-[Kumeo Payments](https://pay.kumeo.com/) <br><br>
+[Kumeo Payments](https://pay.kumeo.com/)  | **UpPoint Inc.** <br><br>
 <br><br>
 <img src="images/kumeo.png?raw=true"/>
 <br><br>
