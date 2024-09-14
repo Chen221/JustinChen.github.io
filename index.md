@@ -129,14 +129,6 @@ Company Pay Service
 A fun tabletop game that combines horror, strategy, and Japanese Urban Legends
 
 <br><br>
-[Seven](https://steamcommunity.com/sharedfiles/filedetails/?id=2238117522) | **USC Games**
-<br><br>
-<img src="images/Seven.png?raw=true"/>
-[Our Design Process](https://drive.google.com/file/d/1z8HIO-2o0i-otkeRYOliDlRViBSN0cQM/view?usp=drive_link)
-<br><br>
-A fun tabletop game that combines horror, strategy, and Japanese Urban Legends
-
-<br><br>
 [Nice Appliances Finish Last](https://steamcommunity.com/sharedfiles/filedetails/?id=2222831567) | **USC Games**
 <br><br>
 <img src="images/Appliances.png?raw=true"/>
